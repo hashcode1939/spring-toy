@@ -1,5 +1,5 @@
 # spring-toy
-spring toy repository
+spring toy repository  
 inflearn 백기선님, "스프링 프레임워크 핵심기술" 강의 
 
 ## spring core toy1 
